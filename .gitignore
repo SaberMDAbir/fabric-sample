@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Emacs backup files
 *~
 *#
@@ -30,3 +31,19 @@ balance-transfer/.DS_Store
 balance-transfer/node_modules/*
 balance-transfer/package-lock.json
 balance-transfer/fabric-client-kv-org*
+=======
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+.glide/
+>>>>>>> ae5bbc98514d7d551834f640be38b0cb14d023ff
